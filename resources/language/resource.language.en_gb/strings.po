@@ -123,7 +123,7 @@ msgid "Internet service providers"
 msgstr ""
 
 
-# Countries (from 30050 to 30079)
+# Countries (from 30050 to 30099)
 
 msgctxt "#30050"
 msgid "France"
@@ -229,82 +229,106 @@ msgctxt "#30075"
 msgid "Luxembourg"
 msgstr ""
 
-# Channels (from 30080 to 30129)
+msgctxt "#30076"
+msgid "Bolivia"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Macedonia"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Ireland"
+msgstr ""
 
 msgctxt "#30080"
+msgid "Romania"
+msgstr ""
+
+# Channels (from 30100 to 30129)
+
+msgctxt "#30100"
 msgid "French channels"
 msgstr ""
 
-msgctxt "#30081"
+msgctxt "#30101"
 msgid "Belgian channels"
 msgstr ""
 
-msgctxt "#30082"
+msgctxt "#30102"
 msgid "Japanese channels"
 msgstr ""
 
-msgctxt "#30083"
+msgctxt "#30103"
 msgid "Switzerland channels"
 msgstr ""
 
-msgctxt "#30084"
+msgctxt "#30104"
 msgid "United Kingdom channels"
 msgstr ""
 
-msgctxt "#30085"
+msgctxt "#30105"
 msgid "International channels"
 msgstr ""
 
-msgctxt "#30086"
+msgctxt "#30106"
 msgid "Canadian channels"
 msgstr ""
 
-msgctxt "#30087"
+msgctxt "#30107"
 msgid "United States channels"
 msgstr ""
 
-msgctxt "#30088"
+msgctxt "#30108"
 msgid "Polish channels"
 msgstr ""
 
-msgctxt "#30089"
+msgctxt "#30109"
 msgid "Spanish channels"
 msgstr ""
 
-msgctxt "#30090"
+msgctxt "#30110"
 msgid "Tunisia channels"
 msgstr ""
 
-msgctxt "#30091"
+msgctxt "#30111"
 msgid "Italian channels"
 msgstr ""
 
-msgctxt "#30092"
+msgctxt "#30112"
 msgid "Dutch channels"
 msgstr ""
 
-msgctxt "#30093"
+msgctxt "#30113"
 msgid "Chinese channels"
 msgstr ""
 
-msgctxt "#30094"
+msgctxt "#30114"
 msgid "Cameroon channels"
 msgstr ""
 
-msgctxt "#30095"
+msgctxt "#30115"
 msgid "Slovenian channels"
 msgstr ""
 
-msgctxt "#30096"
+msgctxt "#30116"
 msgid "Ethiopian channels"
 msgstr ""
 
-msgctxt "#30097"
+msgctxt "#30117"
 msgid "Moroccan channels"
 msgstr ""
 
-msgctxt "#30098"
+msgctxt "#30118"
 msgid "Peruvian channels"
+msgstr ""
+
+msgctxt "#30119"
+msgid "UK channels"
 msgstr ""
 
 # Websites (from 30130 to 30149)
@@ -437,6 +461,18 @@ msgctxt "#30182"
 msgid "France 3 Régions: Choose subregion"
 msgstr ""
 
+msgctxt "#30183"
+msgid "Channel4: Programmes: Sort By"
+msgstr ""
+
+msgctxt "#30184"
+msgid "quality: "
+msgstr ""
+
+msgctxt "#30185"
+msgid "Channel 4: Enable high quality (disable when geo blocked)"
+msgstr ""
+
 msgctxt "#30192"
 msgid "BEST"
 msgstr ""
@@ -531,11 +567,11 @@ msgid "UKTVPlay Password"
 msgstr ""
 
 msgctxt "#30252"
-msgid "RMCBFM Play Login"
+msgid "RMC+ Login"
 msgstr ""
 
 msgctxt "#30253"
-msgid "RMCBFM Play Password"
+msgid "RMC+ Password"
 msgstr ""
 
 msgctxt "#30254"
@@ -563,19 +599,35 @@ msgid "RTBF auvio Password"
 msgstr ""
 
 msgctxt "#30260"
-msgid "MyTF1 Login"
+msgid "TF1+ Login"
 msgstr ""
 
 msgctxt "#30261"
-msgid "MyTF1 Password"
+msgid "TF1+ Password"
 msgstr ""
 
 msgctxt "#30262"
-msgid "SFR TV login"
+msgid "SFR TV token service URL"
 msgstr ""
 
 msgctxt "#30263"
-msgid "SFR TV password"
+msgid "SFR TV token service API key"
+msgstr ""
+
+msgctxt "#30264"
+msgid "Log in to Channel 4"
+msgstr ""
+
+msgctxt "#30265"
+msgid "Log out of Channel 4"
+msgstr ""
+
+msgctxt "#30266"
+msgid "Log in to 5"
+msgstr ""
+
+msgctxt "#30267"
+msgid "Log out of 5"
 msgstr ""
 
 
@@ -835,7 +887,7 @@ msgid "This content is DRM protected. The download mode doesn't work for this ki
 msgstr ""
 
 msgctxt "#30604"
-msgid "Access to this content requires an account %s. You can provide your credentials for it in the settings of this add-on. If you don't have an account, you can create one at this url %s."
+msgid "Access to this content requires a %s account. You can provide your credentials for it in the settings of this add-on. If you don't have an account, you can create one at this url: %s."
 msgstr ""
 
 msgctxt "#30605"
@@ -844,6 +896,10 @@ msgstr ""
 
 msgctxt "#30606"
 msgid "Do you want to see this information next time?"
+msgstr ""
+
+msgctxt "#30607"
+msgid "Access to this content requires a %s account and your own %s token service. Configure the service in the settings of this add-on."
 msgstr ""
 
 
@@ -970,7 +1026,31 @@ msgid "Homepage"
 msgstr ""
 
 msgctxt "#30732"
-msgid "This content requires a payment. To buy or rent it, go to %s website at this URL : %s"
+msgid "This content requires payment. To buy or rent it, go to the %s website at this URL: %s"
+msgstr ""
+
+msgctxt "#30733"
+msgid "Enter email"
+msgstr ""
+
+msgctxt "#30734"
+msgid "Enter password"
+msgstr ""
+
+msgctxt "#30735"
+msgid "Logged in successfully"
+msgstr ""
+
+msgctxt "#30736"
+msgid "Logged out successfully"
+msgstr ""
+
+msgctxt "#30737"
+msgid "You are already logged out."
+msgstr ""
+
+msgctxt "#30738"
+msgid "Thematics"
 msgstr ""
 
 
@@ -1043,7 +1123,7 @@ msgid "Access denied (Geographical restriction?)"
 msgstr ""
 
 msgctxt "#30894"
-msgid "This resource requires a payment or a subscription"
+msgid "This resource requires payment or a subscription"
 msgstr ""
 
 msgctxt "#30895"
