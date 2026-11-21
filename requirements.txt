@@ -7,11 +7,11 @@ pylint
 pyqrcode
 pytest
 pytz
-requests
+requests < 2.33
 sakee
 setuptools >= 84.2.1
 six
 #typing-extensions == 3.7.4.1; python_version != '2.7'
 tzlocal
 xmlschema == 3.4.3; python_version == '2.7'
-urlquick
+# urlquick
