@@ -15,3 +15,4 @@ six
 tzlocal
 xmlschema == 3.4.3; python_version == '2.7'
 # urlquick
+htmlement
